@@ -1,0 +1,6 @@
+[submodule "tul"]
+	path = tul
+	url = https://github.com/RifeX-LA/tul.git
+[submodule "timer"]
+	path = timer
+	url = https://github.com/RifeX-LA/timer.git
