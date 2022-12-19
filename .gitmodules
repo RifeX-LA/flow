@@ -4,3 +4,6 @@
 [submodule "timer"]
 	path = timer
 	url = https://github.com/RifeX-LA/timer.git
+[submodule "lifetime"]
+	path = lifetime
+	url = https://github.com/RifeX-LA/lifetime.git
