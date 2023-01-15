@@ -7,3 +7,6 @@
 [submodule "lifetime"]
 	path = lifetime
 	url = https://github.com/RifeX-LA/lifetime.git
+[submodule "threads"]
+	path = threads
+	url = https://github.com/RifeX-LA/threads
